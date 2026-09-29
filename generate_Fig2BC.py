@@ -1,10 +1,8 @@
 import json
 import glob
 import numpy as np
-import pickle
 
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 L=400 #Set to 400 for 2B and 1600 for 2C
 
