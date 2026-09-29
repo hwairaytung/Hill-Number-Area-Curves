@@ -1,10 +1,8 @@
 import json
 import glob
 import numpy as np
-import pickle
 
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 L=100
 
